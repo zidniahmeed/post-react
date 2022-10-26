@@ -1,0 +1,6 @@
+.card {
+    @apply border-2 py-4 px-2 rounded-md
+}
+.card h2 {
+    @apply text-[20px] font-semibold mb-2
+}

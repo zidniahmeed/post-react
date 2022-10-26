@@ -1,0 +1,6 @@
+.section {
+    @apply mx-5 my-4
+}
+.wrap {
+    @apply grid grid-cols-2 gap-5
+}

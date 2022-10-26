@@ -1,0 +1,1 @@
+export const urlMain = "http://demo-api-vue.sanbercloud.com/api/blog"
